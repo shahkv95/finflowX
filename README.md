@@ -1,4 +1,7 @@
 # FinFlowX
+
+<img src="https://github.com/shahkv95/projects-logo/blob/main/imgs/finflowX.png" height="300"></img>
+
 A tool for tracking and analyzing the performance of a user's portfolio of investments. The tool should allow users to view their portfolio, see how their investments are performing over time, and get insights into the risks and returns associated with their portfolio. The tool should also allow users to add and remove investments from their portfolio and get real-time updates on the value of their portfolio.
 
 ## Features
